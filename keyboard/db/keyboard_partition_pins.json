@@ -1,0 +1,113 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "led_0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "led_0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "led_0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "led_0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "led_0[4]",
+					"strict" : false
+				},
+				{
+					"name" : "led_0[5]",
+					"strict" : false
+				},
+				{
+					"name" : "led_0[6]",
+					"strict" : false
+				},
+				{
+					"name" : "led_1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "led_1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "led_1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "led_1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "led_1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "led_1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "led_1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rs",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_en",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_data[0]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_data[1]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_data[2]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_data[3]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_data[4]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_data[5]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_data[6]",
+					"strict" : false
+				},
+				{
+					"name" : "keyboard_clock",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "ps2_keyboard",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

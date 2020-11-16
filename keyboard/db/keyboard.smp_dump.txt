@@ -1,0 +1,10 @@
+
+State Machine - |keyboard|lcd_state
+Name lcd_state.done_state lcd_state.ready_state lcd_state.cursor_config_lcd lcd_state.clean_lcd lcd_state.power_on_lcd lcd_state.config_lcd lcd_state.power_on 
+lcd_state.power_on 0 0 0 0 0 0 0 
+lcd_state.config_lcd 0 0 0 0 0 1 1 
+lcd_state.power_on_lcd 0 0 0 0 1 0 1 
+lcd_state.clean_lcd 0 0 0 1 0 0 1 
+lcd_state.cursor_config_lcd 0 0 1 0 0 0 1 
+lcd_state.ready_state 0 1 0 0 0 0 1 
+lcd_state.done_state 1 0 0 0 0 0 1 

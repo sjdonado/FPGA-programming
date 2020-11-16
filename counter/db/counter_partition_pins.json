@@ -1,0 +1,93 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "led_0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "led_0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "led_0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "led_0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "led_0[4]",
+					"strict" : false
+				},
+				{
+					"name" : "led_0[5]",
+					"strict" : false
+				},
+				{
+					"name" : "led_0[6]",
+					"strict" : false
+				},
+				{
+					"name" : "led_1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "led_1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "led_1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "led_1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "led_1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "led_1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "led_1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "speed[0]",
+					"strict" : false
+				},
+				{
+					"name" : "speed[2]",
+					"strict" : false
+				},
+				{
+					"name" : "speed[1]",
+					"strict" : false
+				},
+				{
+					"name" : "sw_dir",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "sw_freq",
+					"strict" : false
+				},
+				{
+					"name" : "clk_50Mhz",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

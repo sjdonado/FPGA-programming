@@ -1,0 +1,177 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "vga_hs",
+					"strict" : false
+				},
+				{
+					"name" : "vga_vs",
+					"strict" : false
+				},
+				{
+					"name" : "vga_r[0]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_r[1]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_r[2]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_r[3]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_r[4]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_r[5]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_r[6]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_r[7]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_g[0]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_g[1]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_g[2]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_g[3]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_g[4]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_g[5]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_g[6]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_g[7]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_b[0]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_b[1]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_b[2]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_b[3]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_b[4]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_b[5]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_b[6]",
+					"strict" : false
+				},
+				{
+					"name" : "vga_b[7]",
+					"strict" : false
+				},
+				{
+					"name" : "led_0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "led_0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "led_0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "led_0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "led_0[4]",
+					"strict" : false
+				},
+				{
+					"name" : "led_0[5]",
+					"strict" : false
+				},
+				{
+					"name" : "led_0[6]",
+					"strict" : false
+				},
+				{
+					"name" : "led_1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "led_1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "led_1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "led_1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "led_1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "led_1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "led_1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "keyboard_clock",
+					"strict" : false
+				},
+				{
+					"name" : "ps2_keyboard",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -4.049
+TNS   : -171.211
+
+Type  : Slow 1200mV 85C Model Setup 'keyboard_clock'
+Slack : -1.132
+TNS   : -33.478
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'keyboard_clock'
+Slack : 0.440
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -64.680
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'keyboard_clock'
+Slack : -3.000
+TNS   : -46.690
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -3.653
+TNS   : -153.616
+
+Type  : Slow 1200mV 0C Model Setup 'keyboard_clock'
+Slack : -0.942
+TNS   : -27.287
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 0.339
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'keyboard_clock'
+Slack : 0.387
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -64.680
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'keyboard_clock'
+Slack : -3.000
+TNS   : -46.690
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -1.824
+TNS   : -60.391
+
+Type  : Fast 1200mV 0C Model Setup 'keyboard_clock'
+Slack : -0.013
+TNS   : -0.104
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 0.175
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'keyboard_clock'
+Slack : 0.199
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -54.349
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'keyboard_clock'
+Slack : -3.000
+TNS   : -43.600
+
+------------------------------------------------------------
